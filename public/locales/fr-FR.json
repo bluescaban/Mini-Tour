@@ -1,0 +1,140 @@
+{
+  "tourTitle": "Capacités",
+  "tourCTA": "Essayez gratuitement",
+  "Step": "Étape",
+  "Of": "de",
+  "sections": [
+    {
+      "foldTitle": "Gagnez de nouveaux clients grâce au travail d'équipe",
+      "steps": [
+        {
+          "header": "Connectez-vous à travers la vente hybride",
+          "description": "Connectez les vendeurs aux clients via leurs canaux de communication préférés avec Microsoft Teams et Dynamics 365 Sales.",
+          "coordinates": [32, 43],
+          "img": "../../src/images/fr-fr/1_1.png",
+          "optionalLinkTitle": "En savoir plus",
+          "optionalLinkAddress": "https://dynamics.microsoft.com/en-us/sales/capabilities/"
+        },
+        {
+          "header": "Remplacez l'intuition par des informations",
+          "description": "Optimisez les cycles de vente grâce aux actions suggérées, en vous concentrant sur l'activité la plus importante avec la meilleure probabilité de conclure.",
+          "coordinates": [9, 24],
+          "img": "../../src/images/fr-fr/1_2.png",
+          "optionalLinkTitle": "",
+          "optionalLinkAddress": ""
+        },
+        {
+          "header": "Obtenez une visibilité sur l'ensemble du cycle de vente",
+          "description": "Analysez les pipelines individuels et collectifs pour des prévisions précises grâce à des informations automatisées.",
+          "coordinates": [17, 88],
+          "img": "../../src/images/fr-fr/1_3.png",
+          "optionalLinkTitle": "Ceci est un lien facultatif!",
+          "optionalLinkAddress": ""
+        },
+        {
+          "header": "Activez la vente guidée avec des informations en temps réel",
+          "description": "Guidez les vendeurs avec des informations en temps réel sur l'émotion du client, le marché concurrentiel, le sentiment et les priorités lors des appels téléphoniques.",
+          "coordinates": [80, 6],
+          "img": "../../src/images/fr-fr/1_4.png",
+          "optionalLinkTitle": "Ceci est un lien facultatif!",
+          "optionalLinkAddress": "https://dynamics.microsoft.com/en-us/sales/capabilities/"
+        }
+      ]
+    },
+    {
+      "foldTitle": "Accélérez les revenus avec l'IA",
+      "steps": [
+        {
+          "header": "Améliorez l'intuition avec des informations",
+          "description": "Optimisez les cycles de vente grâce aux actions suggérées, en vous concentrant sur l'activité la plus importante avec la meilleure probabilité de conclure.",
+          "coordinates": [18, 40],
+          "img": "../../src/images/fr-fr/2_1.png",
+          "optionalLinkTitle": "Ceci est un lien facultatif!",
+          "optionalLinkAddress": "https://dynamics.microsoft.com/en-us/sales/capabilities/"
+        },
+        {
+          "header": "Agissez en toute fluidité",
+          "description": "Prenez les actions suggérées directement depuis le tableau de bord avec une liste de travail priorisée.",
+          "coordinates": [16.5, 33],
+          "img": "../../src/images/fr-fr/2_2.png",
+          "optionalLinkTitle": "Ceci est un lien facultatif!",
+          "optionalLinkAddress": "https://dynamics.microsoft.com/en-us/sales/capabilities/"
+        },
+        {
+          "header": "Soyez informé des risques de transaction",
+          "description": "Augmentez les taux de clôture avec des notifications concernant les transactions à risque.",
+          "coordinates": [46, 10],
+          "img": "../../src/images/fr-fr/2_3.png",
+          "optionalLinkTitle": "Ceci est un lien facultatif!",
+          "optionalLinkAddress": "https://dynamics.microsoft.com/en-us/sales/capabilities/"
+        },
+        {
+          "header": "Améliorez les relations client",
+          "description": "Recevez des recommandations pour améliorer les relations client à risque.",
+          "coordinates": [79, 6],
+          "img": "../../src/images/fr-fr/2_4.png",
+          "optionalLinkTitle": "Ceci est un lien facultatif!",
+          "optionalLinkAddress": "https://dynamics.microsoft.com/en-us/sales/capabilities/"
+        }
+      ]
+    },
+    {
+      "foldTitle": "Prédisez et gérez les pipelines en toute confiance",
+      "steps": [
+        {
+          "header": "Obtenez une visibilité sur l'ensemble du cycle de vente",
+          "description": "Analysez les pipelines individuels et collectifs pour des prévisions précises grâce à des informations automatisées.",
+          "coordinates": [-1, -1],
+          "img": "../../src/images/fr-fr/3_1.png",
+          "optionalLinkTitle": "Ceci est un lien facultatif!",
+          "optionalLinkAddress": "https://dynamics.microsoft.com/en-us/sales/capabilities/"
+        },
+        {
+          "header": "Mettez en lumière les points forts et faibles potentiels",
+          "description": "Prévoyez les fluctuations de revenus et mettez en évidence les zones à privilégier du haut en bas de l'entonnoir.",
+          "coordinates": [25, 15],
+          "img": "../../src/images/fr-fr/3_2.png",
+          "optionalLinkTitle": "Ceci est un lien facultatif!",
+          "optionalLinkAddress": "https://dynamics.microsoft.com/en-us/sales/capabilities/"
+        },
+        {
+          "header": "Concentrez-vous sur ce qui compte",
+          "description": "Réduisez le temps consacré aux rapports en faisant ressortir les exceptions à l'aide de rapports intégrés.",
+          "coordinates": [16, 64],
+          "img": "../../src/images/fr-fr/3_3.png",
+          "optionalLinkTitle": "Ceci est un lien facultatif!",
+          "optionalLinkAddress": "https://dynamics.microsoft.com/en-us/sales/capabilities/"
+        }
+      ]
+    },
+    {
+      "foldTitle": "Améliorez les conversations avec les clients grâce à un coaching en temps réel",
+      "steps": [
+        {
+          "header": "Activez la vente guidée avec des informations en temps réel",
+          "description": "Guidez les vendeurs avec des informations en temps réel sur l'émotion du client, le marché concurrentiel, le sentiment et les priorités lors des appels téléphoniques.",
+          "coordinates": [47, 7],
+          "img": "../../src/images/fr-fr/4_1.png",
+          "optionalLinkTitle": "Ceci est un lien facultatif!",
+          "optionalLinkAddress": "https://dynamics.microsoft.com/en-us/sales/capabilities/"
+        },
+        {
+          "header": "Rendez le parcours de vente plus direct pour les vendeurs",
+          "description": "Construisez des parcours de vente consécutifs qui éliminent les incertitudes concernant les étapes suivantes, s'accumulent pour atteindre les objectifs et minimisent le temps de formation.",
+          "coordinates": [35, 45],
+          "img": "../../src/images/fr-fr/4_2.png",
+          "optionalLinkTitle": "Ceci est un lien facultatif!",
+          "optionalLinkAddress": "https://dynamics.microsoft.com/en-us/sales/capabilities/"
+        },
+        {
+          "header": "Renforcez l'adoption avec des retours d'informations automatiques",
+          "description": "Donnez aux vendeurs des retours d'informations automatisés pour les aider à améliorer les compétences nécessaires pour s'adapter à chaque client.",
+          "coordinates": [20, 85],
+          "img": "../../src/images/fr-fr/4_3.png",
+          "optionalLinkTitle": "Ceci est un lien facultatif!",
+          "optionalLinkAddress": "https://dynamics.microsoft.com/en-us/sales/capabilities/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+	"locales": {
+		"ar-dz": [ "ar-sa", "en-us" ],
+		"ar-eg": [ "ar-sa", "en-us" ],
+		"ar-lb": [ "ar-sa", "en-us" ],
+		"ar-ma": [ "ar-sa", "en-us" ],
+		"ar-qa": [ "ar-sa", "en-us" ],
+		"ar-sa": ["ar-sa", "en-us"],
+		"ar-tn": [ "ar-sa", "en-us" ],
+
+		"cs-cz": [ "cs-cz", "en-us" ],
+
+		"da-dk": [ "da-dk", "en-us" ],
+
+		"de-at": [ "de-de", "en-us" ],
+		"de-ch": [ "de-de", "en-us" ],
+		"de-de": [ "de-de", "en-us" ],
+		"de-lu": [ "de-de", "en-us" ],
+
+		"el-gr": [ "el-gr", "en-us" ],
+
+		"en-ph": ["en-us"],
+		"en-ca": ["en-us"],
+		"et-ee": ["en-us"],
+		"hr-hr": ["en-us"],
+		"hu-hu": ["en-us"],
+		"id-id": ["en-us"],
+		"is-is": ["en-us"],
+		"lt-lt": ["en-us"],
+		"lv-lv": ["en-us"],
+		"ro-ro": ["en-us"],
+		"sl-si": ["en-us"],
+		"sr-latn-rs": ["en-us"],
+		"vi-vn": ["en-us"],
+		"en-us": ["en-us"],
+
+		"bn-bd": [ "en-gb", "en-us" ],
+		"en-ae": [ "en-gb", "en-us" ],
+		"en-au": [ "en-gb", "en-us" ],
+		"en-cy": [ "en-gb", "en-us" ],
+		"en-gb": [ "en-gb", "en-us" ],
+		"en-hk": [ "en-gb", "en-us" ],
+		"en-ie": [ "en-gb", "en-us" ],
+		"en-in": [ "en-gb", "en-us" ],
+		"en-ke": [ "en-gb", "en-us" ],
+		"en-mt": [ "en-gb", "en-us" ],
+		"en-my": [ "en-gb", "en-us" ],
+		"en-ng": [ "en-gb", "en-us" ],
+		"en-nz": [ "en-gb", "en-us" ],
+		"en-sg": [ "en-gb", "en-us" ],
+		"en-za": [ "en-gb", "en-us" ],
+		"si-lk": [ "en-gb", "en-us" ],
+		"ta-lk": [ "en-gb", "en-us" ],
+
+		"es-co": [ "es-es", "en-us" ],
+		"es-es": [ "es-es", "en-us" ],
+		"es-mx": [ "es-es", "en-us" ],
+		"es-pe": [ "es-es", "en-us" ],
+
+		"fi-fi": [ "fi-fi", "en-us" ],
+
+		"fr-be": [ "fr-fr", "en-us" ],
+		"fr-ca": [ "fr-fr", "en-us" ],
+		"fr-ch": [ "fr-fr", "en-us" ],
+		"fr-fr": [ "fr-fr", "en-us" ],
+		"fr-lu": [ "fr-fr", "en-us" ],
+
+		"he-il": [ "he-il", "en-us" ],
+
+		"it-ch": [ "it-it", "en-us" ],
+		"it-it": [ "it-it", "en-us" ],
+
+		"ja-jp": [ "ja-jp", "en-us" ],
+
+		"ko-kr": [ "ko-kr", "en-us" ],
+
+		"nb-no": [ "nb-no", "en-us" ],
+
+		"nl-be": [ "nl-nl", "en-us" ],
+		"nl-nl": [ "nl-nl", "en-us" ],
+
+		"pl-pl": [ "pl-pl", "en-us" ],
+		"pt-br": [ "pt-br", "en-us" ],
+		"pt-pt": [ "pt-pt", "en-us" ],
+		"ru-ru": [ "ru-ru", "en-us" ],
+		"sv-se": [ "sv-se", "en-us" ],
+		"th-th": [ "th-th", "en-us" ],
+		"tr-tr": [ "tr-tr", "en-us" ],
+		"zh-cn": [ "zh-cn", "en-us" ],
+		"zh-tw": [ "zh-tw", "en-us" ],
+
+		"default": ["en-us"]
+	}
+}

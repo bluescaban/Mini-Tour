@@ -1,0 +1,35 @@
+.coachmarkStyles {
+  background-color: #0ea5e9;
+  z-index: 1;
+  width: 1.5em;
+  height: 1.5em;
+  position: relative;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.coachmarkStyles:focus {
+  outline: none;
+  box-shadow: 0 0 2px 2px blue;
+}
+
+.coachmarkStyles:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #0ea5e9;
+  border-radius: 50%;
+  opacity: 1;
+  z-index: -1;
+  animation: pulse 1s ease-out infinite;
+}
+
+@keyframes pulse {
+  100% {
+    transform: scale(2.5);
+    opacity: 0;
+  }
+}

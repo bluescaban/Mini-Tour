@@ -1,0 +1,87 @@
+/* .accordion {
+    display: block;
+    justify-content: space-between;
+  } */
+  
+  /* .fold {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+  }
+   */
+  /* .plus-minus {
+    color: #3376CD;
+    cursor: pointer;
+    font-size: 3em;
+    padding-left: .5em;
+    padding-top: .4em;
+  }
+
+  .plus-minus.selected {
+    color: #505050;
+  } */
+
+  /* .fold-title {
+    cursor: pointer;
+    font-size: 2em;
+    font-weight: 500;
+    margin-left: .5em;
+    margin-top: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+  }
+
+  .fold-title.selected {
+    color: #3376CD;
+  } */
+  
+  /* .accordion-fold-hide {
+    display: none;
+    transition: all 0.2s cubic-bezier(0,1,0,1);
+  }
+  
+  .accordion-fold.show {
+    transition: all 0.2s cubic-bezier(1,0,1,0);    
+  }
+   */
+  /* .borderline{
+    border: .1px solid #D2D2D2;
+  } */
+
+  /* TABLET STYLES */
+@media only screen and (max-width: 850px) {
+  
+  .fold-title {
+    font-size: 1.5em;
+  }
+
+  .plus-minus {
+    font-size: 2.2em;
+  }
+
+}
+
+/*  MOBILE STYLES */
+@media only screen and (max-width: 460px) {
+  
+  .fold-title {
+    font-size: 1.2em;
+  }
+
+  .plus-minus {
+    font-size: 1.8em;
+  }
+
+}
+
+@media only screen and (max-width: 350px) {
+  
+  .fold-title {
+    font-size: 1em;
+  }
+
+  .plus-minus {
+    font-size: 1.5em;
+  }
+
+
+}
